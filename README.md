@@ -1,4 +1,6 @@
-# BESSTIE NLP Coursework — Sarcasm & Sentiment Detection
+#Cross-Variety-Sarcasm-and-Sentiment-Detector
+
+
 
 ## Overview
 This project explores sarcasm detection and sentiment classification across multiple English dialects using both traditional machine learning and modern transformer-based approaches.
